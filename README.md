@@ -46,6 +46,13 @@ This Python script implements a question-answering system focusing on Lord Ram, 
 This script is a demonstration of creating a domain-specific question-answering system using advanced NLP models and techniques from the HuggingFace Transformers library.
 
 
+
+On Goolge Colab the Code was Run  and below output was received
+
+![Screenshot 2024-01-08 003852](https://github.com/ParthaPRay/Question-Asnwering-Transformer/assets/1689639/3f65ca87-aa99-4afc-b9e4-cde25fb7acec)
+
+
+
 References
 
 1. https://www.youtube.com/watch?v=lPKEOAnMppw&ab_channel=PythonCodeCamp
