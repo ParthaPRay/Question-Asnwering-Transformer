@@ -3,7 +3,9 @@
 This Python script implements a question-answering system focusing on Lord Ram, a pivotal figure in Hindu mythology and the Ramayana epic, using the HuggingFace Transformers library.
 
 
-**Open the Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParthaPRay/OpenAI-Chroma-Langchain/blob/main/opeai_chroma_langchain.ipynb)
+**Open the Colab:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParthaPRay/Question-Asnwering-Transformer/blob/main/Questoin-Answering%20Transformer.ipynb)
+
+
 
 
 ## Key Components of the Script
